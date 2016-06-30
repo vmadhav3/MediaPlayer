@@ -1,0 +1,1 @@
+This is a regular media player with volume control and position control.
